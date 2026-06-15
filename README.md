@@ -2,7 +2,7 @@
   <img src="./avatar.png" width="150" height="150" alt="三清科技" />
 </p>
 
-<h1 align="center">👋 三清科技</h1>
+<h1 align="center">👋 三清</h1>
 
 <p align="center">
   <b>Hackintosh EFI / OpenCore / macOS on non-Apple hardware</b>
