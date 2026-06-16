@@ -18,13 +18,6 @@
 
 ---
 
-### 4️⃣ 获取支持
-- 📖 本仓库的 [Issues](https://github.com/WT2072861996/WT2072861996/issues)
-- 💬 在特定硬件配置仓库提问
-- 🌐 [r/Hackintosh](https://reddit.com/r/hackintosh)
-
----
-
 ## 📈 仓库统计
 
 <div align="center">
