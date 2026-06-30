@@ -2,7 +2,7 @@
   <img src="./avatar.png" width="180" style="border-radius:50%" />
 </p>
 
-<h1 align="center">🍎 三清科技 · Hackintosh EFI</h1>
+<h1 align="center">🍎 三清 · Hackintosh EFI</h1>
 
 <p align="center">
   <b>OpenCore Hackintosh EFI · ACPI SSDT · macOS 系统优化</b>
